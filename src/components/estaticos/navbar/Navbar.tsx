@@ -7,11 +7,11 @@ import './Navbar.css'
 function Navbar() {
     return (
         <>
-            <AppBar position="static">
+            <AppBar position="static" className='cor'>
                 <Toolbar variant="dense">
                     <Box className="cursor" >
                         <Typography variant="h5" color="inherit">
-                            Reviews do Gus
+                            Blog Pessoal
                         </Typography>
                     </Box>
 

@@ -3,6 +3,11 @@
     color: white;
 }
 
+.cor{
+    background-color: #000!important;
+}
 .text-decorator-none{
     text-decoration: none;
 }
+
+    
