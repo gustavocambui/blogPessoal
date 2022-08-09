@@ -1,6 +1,6 @@
 import Tema from "./Tema";
 
-interface Postagem {
+interface Postagens {
     id: number;
     titulo: string;
     texto: string;
@@ -8,4 +8,4 @@ interface Postagem {
     date: string;
 }
 
-export default Postagem;
+export default Postagens;
